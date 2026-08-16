@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as follows."
+title: "Beyond the Machine: The Universe as an Autonomous Generative System"
+type: "article"
+authors:
+  - family-names: "Morelos"
+    given-names: "Omar Chad"
+date-released: 2026-08-16
+version: 1.0.0
+abstract: >
+  A conceptual framework exploring the universe as an autonomous generative
+  system, with particular attention to constrained randomness, emergence,
+  entropy, physical information, cosmic scale, and the convergence of natural
+  and artificial systems.
+keywords:
+  - cosmology
+  - complex systems
+  - emergence
+  - entropy
+  - randomness
+  - stochasticity
+  - physical information
+  - self-organization
+  - artificial intelligence
+  - generative systems
+  - philosophy of physics
+  - systems theory
+repository-code: "https://github.com/ch4dwick/autonomous-generative-universe/new/main"
+license: "CC-BY-NC-ND-4.0"
+license-url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+url: "https://github.com/ch4dwick/autonomous-generative-universe/new/main"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Morelos"
+      given-names: "Omar Chad"
+  title: "Beyond the Machine: The Universe as an Autonomous Generative System"
+  year: 2026
+  version: 1.0.0
+  status: "in-preparation"
+  
