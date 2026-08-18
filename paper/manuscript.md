@@ -109,7 +109,7 @@ At any moment, physical reality has a particular configuration: matter has measu
 Conceptually:
 
 \[
-U(t+\Delta t)=F[U(t)]
+U(t+ $\Delta$ t)=F[U(t)]
 \]
 
 where \(U(t)\) represents a physical state and \(F\) represents the relationships governing its evolution. This is not proposed as a new physical equation; it is a compact description of state transition.
